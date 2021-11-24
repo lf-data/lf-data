@@ -1,6 +1,6 @@
 <h3>Hi! 👋<br>I'm Francesco Lorè<br>a Data Scientist</h3>
 
-I am a student enrolled in Master of Science in Data Analytics for Business at Cattolica del Sacro Cuore University at Milan. I graduated in Economics and Business at Aldo Moro University at Bari.
+I am a student enrolled in Master of Science in Data Analytics for Business at Cattolica del Sacro Cuore University in Milan. I graduated in Economics and Business at Aldo Moro University in Bari.
 
 During my bachelor’s degree experiences, I was able to get in touch with a lot of people of different cultures, languages and traditions and I grew in professional and personal point of view. Last year, after the graduation, I moved to Milan for the MSc, this was and is an important step of my life that allowed me to integrate in a big new city, despite the actual pandemic emergency.
 
