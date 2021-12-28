@@ -21,6 +21,5 @@ Should you need any further information, please do not hesitate to contact me.
 - [Music Analysis Classification by RNN](https://github.com/lf-data/music_analysis_classification)
 - [Toxic Comments Classification](https://github.com/lf-data/toxic_comments_classification)
 - [Analysis and Prediction of COVID-19](https://github.com/lf-data/covid-19-analysis)
-- [CNN Music Instruments Classification](https://github.com/lf-data/cnn-music-instruments)
 - [DataViz IMDB score](https://github.com/lf-data/dataviz-imdb)
 - [CLI for Resturant (dinner booking)](https://github.com/lf-data/dinner-booking)
