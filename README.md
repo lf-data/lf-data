@@ -18,6 +18,7 @@ Should you need any further information, please do not hesitate to contact me.
 
 <h4>💼 My Latest Project</h4>
 
+- [Toxic comments classification](https://github.com/lf-data/toxic-comments-classification)
 - [Analysis and Prediction of COVID-19](https://github.com/lf-data/covid-19-analysis)
 - [CNN Music Instruments Classification](https://github.com/lf-data/cnn-music-instruments)
 - [DataViz IMDB score](https://github.com/lf-data/dataviz-imdb)
