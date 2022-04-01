@@ -1,4 +1,4 @@
-<h3>Hi! 👋<br>I'm Francesco Lorè<br>a Data Scientist</h3>
+<h3>Hi! 👋<br>I'm Francesco Lorè<br>a Data Analyst/Scientist</h3>
 
 I am a student enrolled in Master of Science in Data Analytics for Business at Cattolica del Sacro Cuore University in Milan. I graduated in Economics and Business at Aldo Moro University in Bari.
 
@@ -10,11 +10,6 @@ my university studies, I have acquired an excellent understanding and proficienc
 
 I like sports and I practised swimming at a competitive level from 10 years, until the end of high school, and I learned how important commitment and determination are to achieve personal and team’s goals.
 Through sports competitions, I learned how to manage moments of stress, and this turned out to be so useful in everyday life.
-
-I am looking for an opportunity that can allow me to put in practise and further improve what I learned so far. I believe a competitive and dynamic environment is ideal for me to continue my career and to
-achieve my personal goals.
-
-Should you need any further information, please do not hesitate to contact me.
 
 <h4>💼 My Latest Project</h4>
 
