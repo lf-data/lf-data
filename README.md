@@ -1,9 +1,70 @@
-<h3>Hi! 👋<br>I'm Francesco Lorè<br>a Data Scientist and Python Developer</h3>
+# Francesco Lorè — AI Engineer | Python | Generative AI | Cloud
 
-During my university studies and work experiences, I was able to get in touch with a lot of people of different cultures, languages and traditions and I grew in professional and personal point of view. I moved to Milan for the MSc for two years.
+AI Engineer with 4+ years of experience building AI systems, developer tools, and backend services using Python, cloud platforms, and modern machine learning frameworks.
 
-I have experience in collecting, transforming, and organizing data for analysis to help make informed decisions. I have experienco to standardize e optimize digital processes.
-I am a passionate student of the world of technology and in particular of computer science and during my experiences, I have acquired an excellent understanding and proficiency of programming languages and platforms for effective data analyses and robotic process automation.
+My work focuses on real-world AI applications, including LLM-based assistants, agent systems, automation pipelines, and modular Python frameworks for scalable software architectures.
 
-I like sports and I practised swimming at a competitive level for 10 years, until the end of high school. I learned how important commitment and determination are to achieve personal and team’s goals.
-Through sports competitions, I learned how to manage moments of stress, and this turned out to be so useful in everyday life.
+I enjoy designing systems that combine AI, backend development, and data engineering.
+
+## ⚡ Tech Stack
+
+**Languages**
+Python • SQL • Bash • JavaScript
+
+**AI / ML / LLM**
+OpenAI • LangChain • RAG • Agents • Embeddings
+PyTorch • Scikit-learn • Pandas • NumPy
+
+**Backend & APIs**
+FastAPI • REST APIs • Async Python • Microservices
+
+**Cloud & DevOps**
+AWS • Docker • Linux • Git • CI/CD
+
+**Data & Automation**
+ETL • Data Pipelines • Process Automation • Web scraping
+
+## 🧠 Projects & Interests
+
+I build projects related to:
+
+* LLM chat assistants
+* Agent-based AI systems
+* Python libraries for workflow orchestration
+* Backend services for AI applications
+* Automation tools and data pipelines
+* Cloud-deployed AI services
+
+Some of my repositories include:
+
+* AI chat assistants with tools, memory, and external integrations
+* Telegram / Web AI bots powered by LLMs
+* Modular Python frameworks for processing pipelines
+* Experimental AI applications and developer utilities
+
+## 🎓 Background
+
+* MSc in Data Science — Milan
+* BSc in Economics
+* 4+ years experience in AI, software development, and automation
+
+## 🏊 About me
+
+Former competitive swimmer for 10 years.
+Sports taught me discipline, consistency, and how to perform under pressure — skills that I bring into engineering.
+
+## 🤝 Open to collaborations
+
+Interested in working on challenging projects related to:
+
+* AI Engineering
+* Generative AI / LLM systems
+* Python backend development
+* Cloud architectures
+* Automation platforms
+
+## 📫 Contact
+
+GitHub → [https://github.com/lf-data](https://github.com/lf-data)
+LinkedIn → [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/francesco-lore/)
+Email → [flore9819@gmail.com](mailto:flore9819@gmail.com)
