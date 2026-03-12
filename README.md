@@ -66,5 +66,7 @@ Interested in working on challenging projects related to:
 ## 📫 Contact
 
 GitHub → [https://github.com/lf-data](https://github.com/lf-data)
+
 LinkedIn → [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/francesco-lore/)
+
 Email → [flore9819@gmail.com](mailto:flore9819@gmail.com)
